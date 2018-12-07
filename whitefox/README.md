@@ -6,9 +6,9 @@
 
 <hr>
 
-### v0.4.0
+### v0.5.0
 
-<img src="0.4.0/0.4.0-layout-870x330.png" height="auto" width="100%">
+<img src="0.5.0/0.5.0-layout-870x330.png" height="auto" width="100%">
 
 <hr>
 
